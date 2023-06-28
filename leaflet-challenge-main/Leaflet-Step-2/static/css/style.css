@@ -1,0 +1,13 @@
+/* Remove the default margin and padding from body */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 95%;
+/*   height: 600px; */
+}
+
